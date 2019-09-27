@@ -2,7 +2,7 @@
 /*
 Plugin Name: Dark Mode for Twenty Nineteen
 Description: Dark Mode for Twenty Nineteen
-Plugin URI:  http://shortscore.org
+Plugin URI:  https://marc.tv/dark-mode-auf-marctv/
 Version:     1.1
 Author:      MarcDK
 Author URI:  http://marc.tv
