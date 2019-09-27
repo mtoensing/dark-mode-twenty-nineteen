@@ -3,7 +3,7 @@ Contributors: MarcDK
 Tags: marctv, darkmode, dark mode, twentynineteen, Twenty Nineteen, iOS, Android, macOS, Windows10
 Requires at least: 3.0
 Tested up to: 5.2.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 Activates Dark Mode in Twenty Nineteen if the OS is set to Dark Mode.
 
@@ -16,7 +16,7 @@ admin or the user whatsoever.
 You can change the colors with the theme customizer -> custom css function:
 
 ´
-:root { 
+:root {
   --bg-color: #000;
   --bg-color-lighter: #333;
   --txt-color: #efefef;
