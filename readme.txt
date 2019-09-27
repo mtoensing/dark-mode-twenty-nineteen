@@ -35,4 +35,4 @@ You can change the colors with the theme customizer -> custom css function:
 
 = 1.0 =
 
-Inital version
+Initial version

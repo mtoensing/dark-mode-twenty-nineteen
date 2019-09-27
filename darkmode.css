@@ -130,20 +130,6 @@
     color: var(--txt-color);
   }
 
-  /* Dark Mode Comment reply link */
-  html .comment-list .comment-reply-link,
-  html input[type="submit"] {
-    transition: unset;
-    color: var(--bg-color);
-    background: var(--highlight-color);
-  }
-
-  html .comment-list .comment-reply-link:hover,
-  html .comment-list .comment-reply-link:active,
-  input[type="submit"]:hover {
-    background: var(--highlight-color-selected);
-  }
-
   /* Dark Mode Table */
   html .entry-content table tr:nth-child(odd),
   html .wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tr:nth-child(odd),
